@@ -71,6 +71,18 @@ class TimerCustomState extends State<TimerCustom> {
           child: Column(
             mainAxisSize: MainAxisSize.min,
             children: <Widget>[
+              Container(
+                margin: EdgeInsets.only(top:25, bottom: 45),
+                color: navigationColors[navigationIndex],
+                child: RaisedButton(
+                  child: Text('RESET'),
+                  onPressed: (){
+                    setState(() {
+                      isActive = !isActive;
+                    });
+                  },
+                ),
+              ),
               Row(
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: <Widget>[
@@ -83,7 +95,7 @@ class TimerCustomState extends State<TimerCustom> {
                 ],
               ),
               Container(
-                margin: EdgeInsets.only(top:25),
+                margin: EdgeInsets.only(top:45),
                 color: navigationColors[navigationIndex],
                 child: RaisedButton(
                   child: Text(isActive ? 'PAUSE' : 'START'),
