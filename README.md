@@ -1,16 +1,7 @@
-# flutter_app
+# 3 Day Personal Productivity App Challenge
 
-A new Flutter application.
+A simple productivity app idea made in Flutter. It was a challenge with a friend to build a mobile application in three days with zero experience in mobile development or Flutter.
 
-## Getting Started
+## What is it?
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+A productivity mobile application based on the idea of doing something for just five minutes, the pomodoro technique, and the 20/20 idea of looking 20 feet away for 20 seconds every 20 minutes while doing work on a screen.
