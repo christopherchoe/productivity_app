@@ -7,6 +7,7 @@ A simple productivity app idea made in Flutter. It was a challenge with a friend
 - [What is it?](#What-is-it?)
 - [Examples](#Examples)
 - [How to Use](#How-to-Use)
+- [Author](#Author)
 - [Acknowledgments](#Acknowledgments)
 
 ## What is it?
@@ -22,6 +23,12 @@ Clicking on each of the bottom options will take you to that particular screen. 
 ## How to Use
 
 For now this application was tested and run using an Android emulator and is not available anywhere but here.
+
+## Author
+
+I am always open for discussion and new opportunities so please feel free to contact me!
+
+Chris Choe | [Personal Site](https://christopherchoe.github.io) | [LinkedIn](https://linkedin.com/in/choechristopher)
 
 ## Acknowledgments
 
