@@ -22,7 +22,7 @@ Clicking on each of the bottom options will take you to that particular screen. 
 
 ## How to Use
 
-For now this application was tested and run using an Android emulator and is not available anywhere but here.
+For now this application was tested and run using an Android emulator.
 
 ## Author
 
